@@ -2,9 +2,9 @@
 
 I’m interested in studying functional genomics using machine learning, as well as learning about ancient history from DNA. Check out my [website](http://chrisbcole.me/) for more information.
 
-I’m a student in the DPhil Genomic Medicine and Statistics program at the University of Oxford, jointly funded by the Wellcome Trust and the Clarendon Fund. I work at the Wellcome Centre for Human Genetics and Weatherall Institute of Molecular Medicine (WIMM) with my supervisors Gerton Lunter, Thomas Milne, and Jim Hughes. I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the University of Ottawa in 2017.
+I’m a student in the DPhil Genomic Medicine and Statistics program at the University of Oxford, jointly funded by the Wellcome Trust and the Clarendon Fund. I work at the Wellcome Centre for Human Genetics and Weatherall Institute of Molecular Medicine (WIMM) with my supervisors Gerton Lunter, Thomas Milne, and Jim Hughes. I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the University of Ottawa in 2017. 
 
-Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
+I work mainly in R, python, and C++, though I have hobbiest interests in many other languages including MATLAB, Julia and Rust. Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
 
 <!--
 **Chris1221/Chris1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
