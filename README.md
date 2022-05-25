@@ -1,6 +1,6 @@
 Welcome to my Github page. 
 
-I am currently working as a research scientist at Deep Genomics in Toronto. I was previously a DPhil student working with Gerton Lunter and Thomas Milne at the University of Oxford. Check out my [website](http://chrisbcole.me/) for a breakdown of previous projects and repositories of interest. Most of my work is done in python, followed closely by R and C++. I also have hobbiest interests in Rust development. Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
+I am currently working as a research scientist at Deep Genomics in Toronto. I previously completed my DPhil working with Gerton Lunter and Thomas Milne at the University of Oxford. Check out my [website](http://chrisbcole.me/) for a breakdown of previous projects and repositories of interest. Most of my work is done in python, followed closely by R and C++. I also have hobbiest interests in Rust development. Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
 
 <!--
 
