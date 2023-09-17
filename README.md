@@ -1,4 +1,4 @@
-Welcome to my Github page. 
+Hi there, I'm Chris. 
 
 I am currently a senior scientist at Deep Genomics in Toronto. My work involves using machine learning and AI to identify causal drug targets from human genetics data. I previously completed my DPhil working with Gerton Lunter and Thomas Milne at the University of Oxford. Check out my [website](http://chrisbcole.me/) for a breakdown of previous projects and repositories of interest.
 
