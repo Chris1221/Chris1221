@@ -1,6 +1,6 @@
 Hi there, I'm Chris. 
 
-I am currently a senior scientist at [Deep Genomics](https://www.deepgenomics.com/) in Toronto. My work involves using machine learning and AI to identify causal drug targets from human genetics data. I previously completed [my DPhil](https://ora.ox.ac.uk/objects/uuid:f59588c0-9b92-4e9e-b9b8-c6f2104ffd6a) working with Gerton Lunter and Thomas Milne at the University of Oxford. Check out my [website](http://chrisbcole.me/) for a breakdown of previous projects and repositories of interest.
+I am currently a lead scientist at [Deep Genomics](https://www.deepgenomics.com/) in Toronto. My work involves using machine learning and AI to identify causal drug targets from human genetics data. I previously completed [my DPhil](https://ora.ox.ac.uk/objects/uuid:f59588c0-9b92-4e9e-b9b8-c6f2104ffd6a) working with Gerton Lunter and Thomas Milne at the University of Oxford. Check out my [website](http://chrisbcole.me/) for a breakdown of previous projects and repositories of interest.
 
 <!--
 
